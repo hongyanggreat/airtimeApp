@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<properties>
+    <category name="EMAIL"> 
+        <property name="SMTP_MAIL" value="brand@myname.vn" />
+        <property name="SMTP_PASS" value="br@296#kDlo" />
+        <property name="MAIL_HOST" value="mail.myname.vn" />
+        <property name="FROM_NAME" value="[Myname.vn ALERT]" />
+        <property name="MAIL_DEBUG" value="true" />
+    </category>
+</properties>
